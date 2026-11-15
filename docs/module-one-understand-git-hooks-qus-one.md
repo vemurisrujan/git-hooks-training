@@ -58,9 +58,9 @@ flowchart TD
 ```
 
 ##### Key Benefits
-- Early Detection: Identify errors before pushing code.
-- Code Quality: Automatically validate coding standards.
-- Security: Detect potential vulnerabilities early.
-- Reduced Failures: Prevent avoidable CI/CD pipeline failures.
-- Developer Productivity: Provide immediate feedback.
+- **Early Detection:** Identify errors before pushing code.
+- **Code Quality:** Automatically validate coding standards.
+- **Security:** Detect potential vulnerabilities early.
+- **Reduced Failures:** Prevent avoidable CI/CD pipeline failures.
+- **Developer Productivity:** Provide immediate feedback.
 
